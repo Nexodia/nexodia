@@ -3,7 +3,7 @@
 <td width="38%" align="center">
 
 <!-- Replace YOUR_IMAGE_URL_HERE with your image link -->
-<img src="onedrive.live.com/69fac839-f34e-4d5c-9856-75162124313b" width="100%" alt="nexodia"/>
+<img src="kayoko.png" width="100%" alt="nexodia"/>
 
 </td>
 <td width="62%" valign="top">
